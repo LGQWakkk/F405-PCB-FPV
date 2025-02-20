@@ -26,7 +26,7 @@ PCB集成四旋翼飞行器    PCB Integrated Quadcopter
 
 **MAINBOARD**: Mainboard BOM (Bill of Materials), Schematic, Gerber files, etc.
 
-**Projects**: Lichuang EDA (Professional Version) PCB Engineering Files
+**Projects**: Easy EDA (Professional Version) PCB Engineering Files
 
 **manual**: Component Procurement, Full Process Manufacturing Manual
 
